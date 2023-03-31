@@ -17,7 +17,7 @@ react-observable-state is a lightweight state management library for React appli
 ## Usage
 
 ```js
-const { useObservable, Observable } = require('react-observable-state');
+import { useObservable, Observable } from "react-observable-state";
 
 ```
 Then, create a global state using the Observable function:
