@@ -116,7 +116,7 @@ The throttle and debounce functions from the throttle-debounce library are used 
 
 Overall, this code provides a way to manage state in a React application using an observable object with subscribers, allowing for reactive updates to the UI without the need for manual state management.
 
-## Good luck and do not forget 42 the answer to life the universe and everything.
+### Good luck and do not forget 42 the answer to life the universe and everything.
 
 
 
